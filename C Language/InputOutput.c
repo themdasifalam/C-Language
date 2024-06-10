@@ -3,9 +3,19 @@
 int main()
 {
 
-int a;
+int a=4, b=7;
+printf("Value of a is %d and b is %d",a,b);
 
-printf("enter a number");
-scanf("%d",&a);
-printf("%d",a);
-}8
+}
+
+/*
+value of a is 4 and b is 7
+
+Formate Spacifier
+
+%d Int
+%f Float
+%c Char
+%if Double
+
+*/
